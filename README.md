@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 
 ### Web de referencia
 1.- https://docs.python.org/es/3/library/math.html#math.log
+#
+2.- https://numpy.org/doc/stable/user/absolute_beginners.html
+#
+3.- https://pandas.pydata.org/docs/user_guide/index.html
