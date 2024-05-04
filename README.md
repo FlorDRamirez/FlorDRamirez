@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Web de referencia
+1.- https://docs.python.org/es/3/library/math.html#math.log
