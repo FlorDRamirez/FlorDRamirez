@@ -1,5 +1,5 @@
 ### Aprendiendo Python 👋
-![imagen](https://github.com/FlorDRamirez/PracticasPython/blob/main/imagen.jpg)
+![imagen](https://github.com/FlorDRamirez/FlorDRamirez/blob/main/fondo.jpg)
 <!--
 **FlorDRamirez/FlorDRamirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
